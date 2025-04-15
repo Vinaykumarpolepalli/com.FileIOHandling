@@ -7,7 +7,7 @@ public class File1 {
 
 	public static void main(String[] args)  throws IOException{
 		System.out.println("Main Method ");
-		File f = new File("E:\\FileIOHandling\\Text1.txt");
+		File f = new File("D:\\FileIOHandling\\Text1.txt");
 		
 		boolean status=f.createNewFile();
 		if(status) {
