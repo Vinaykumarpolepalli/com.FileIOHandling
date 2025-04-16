@@ -21,6 +21,7 @@ public class FilesWriter1 {
 		
 		fw.write("Vinay kumar");
 		System.out.println("MAin method id ended");
+		fw.close();
 	}
 
 }

@@ -16,7 +16,7 @@ public class Files4 {
 			i=fr.read();
 		}
 		
-		
+		fr.close();
 
 	}
 
